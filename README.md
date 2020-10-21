@@ -1,2 +1,2 @@
 # PythonDataCollector
-A Class Python Project For Understanding GUI AND APIS
+A Python Script For Understanding GUI(tikinter) AND APIS.
